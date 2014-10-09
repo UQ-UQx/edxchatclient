@@ -47,5 +47,7 @@ Where {{YOUR_SERVER_ADDRESS}} is the address of your server running this code.
 ##License
 This project is licensed under the terms of the MIT license.
 
+The module is built on top of the Candy-Chat jabber client - https://github.com/candy-chat/
+
 ##Contact
 The best contact point apart from opening github issues or comments is to email technical@uqx.uq.edu.au
